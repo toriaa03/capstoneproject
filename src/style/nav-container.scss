@@ -1,0 +1,23 @@
+.nav-wrapper {
+    width: 100%;
+
+    .nav-link-wrapper {
+        display: flex;
+        justify-content: space-evenly;
+        font-size: 22px;
+        background-color: rgb(57, 235, 167);
+        padding: 24px;
+
+        a{
+            text-decoration: none;
+            border: transparent;
+            color: black;
+
+
+            &:hover {
+                
+            }
+
+        }
+    }
+}
